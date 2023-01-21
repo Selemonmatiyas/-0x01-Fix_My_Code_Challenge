@@ -19,4 +19,4 @@ Blog application:
 ## Admin account
 
 - email: `selemonmatiyas27@gmail.com`
-- password: `toto1234`
+- password: `sol@H123`
