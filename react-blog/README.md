@@ -8,4 +8,4 @@ Simple React Blog
 2. `npm install` to install dependencies.
 3. Run `gulp build-all` to build the code.
 4. Run `gulp nodemon` to start the server.
-5. Go to http://localhost:5000/
+5. Go to http://admin@solja.tech/
